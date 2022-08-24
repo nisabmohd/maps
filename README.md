@@ -1,4 +1,4 @@
-Maps Using MapBox Plugin
+# Maps Using MapBox Plugin
 
 ### Concepts Involved
 - How to setup Mapbox
